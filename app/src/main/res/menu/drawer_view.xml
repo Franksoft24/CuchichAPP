@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Profile"
+            android:icon="@drawable/ic_person_white_24dp"/>
+        <item
+            android:id="@+id/nav_NewPost"
+            android:title="New Post"
+            android:icon="@drawable/ic_note_add_white_24dp"/>
+        <item
+            android:id="@+id/nav_LogOut"
+            android:title="Log Out" />
+        <!--item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/tools" /-->
+    </group>
+</menu>

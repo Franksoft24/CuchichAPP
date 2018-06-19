@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CuchichAPP</string>
+
+
+    <!--
+    * Main Activity strings:
+    -->
+    <string name="MainActivityCTA">Get Started</string>
+
+    <!--
+    * LogIn Activity strings:
+    -->
+    <string name="SignInView">Log in with:</string>
+
+
+    <!--
+    * NewEntry Activity strings:
+    -->
+    <string name="postTitle">Title:</string>
+    <string name="postTitleHint">My Awesome Title</string>
+    <string name="postContent">Content:</string>
+    <string name="postContentHint">My very long, but awesome content... Wiiiiiiiii</string>
+    <string name="postLocation">Location:</string>
+    <string name="postImage">Picture:</string>
+    <string name="postCreateNew">Create New Post</string>
+    <string name="postSaveButton">Save</string>
+    <string name="postPickAPictureButton">Pick a Picture</string>
+    <string name="postChangePictureButton">Change Picture</string>
+    <string name="postTakeAPhotoButton">Take a photo</string>
+    <string name="postLocationPermissionTitle">Location Access</string>
+    <string name="postLocationPermissionContent">In order to unlock all features,
+        location access is required</string>
+    <string name="send_to">Share: </string>
+
+</resources>

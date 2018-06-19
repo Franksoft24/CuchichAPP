@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e67e22</color>
+    <color name="colorPrimaryDark">#d35400</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!--
+    * My custom colors vars
+    *E53935
+    *FFCBA6
+    -->
+
+    <color name="colorMainActivity">#ffffff</color>
+    <color name="CTAMainActivity">#ecf0f1</color>
+    <color name="CTACopyMainActivity">#FFCBA6</color>
+
+
+
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+
+</resources>
